@@ -1,1 +1,4 @@
 # setup-gitignore
+///
+setup gitignore
+///
